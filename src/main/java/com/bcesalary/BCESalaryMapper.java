@@ -1,4 +1,4 @@
-package com.wordcount;
+package com.bcesalary;
 
 import com.opencsv.CSVReader;
 import java.io.IOException;

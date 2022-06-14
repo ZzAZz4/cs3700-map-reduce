@@ -1,4 +1,4 @@
-package com.wordcount;
+package com.bcesalary;
 
 public class BCERecord implements Comparable<BCERecord> {
     public final Long position;

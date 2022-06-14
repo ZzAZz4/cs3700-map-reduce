@@ -1,4 +1,4 @@
-package com.wordcount;
+package com.bcesalary;
 
 import org.junit.jupiter.api.Test;
 

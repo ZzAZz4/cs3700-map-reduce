@@ -1,4 +1,4 @@
-package com.wordcount;
+package com.bcesalary;
 
 import java.io.IOException;
 import java.util.PriorityQueue;

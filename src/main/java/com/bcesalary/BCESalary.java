@@ -1,4 +1,4 @@
-package com.wordcount;
+package com.bcesalary;
 
 import java.util.Arrays;
 import org.apache.hadoop.conf.Configuration;
